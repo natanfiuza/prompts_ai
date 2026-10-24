@@ -1,0 +1,6 @@
+# Atalhos do Windows (específicos da máquina)
+*.lnk
+
+# Lixo do Windows
+Thumbs.db
+desktop.ini
